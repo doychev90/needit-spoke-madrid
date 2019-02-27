@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_snapshot">
+    <sys_hub_action_type_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Input a number and return the date that many days ago</description>
+        <internal_name>get_days_ago_date</internal_name>
+        <label_cache>[]</label_cache>
+        <master>true</master>
+        <name>Get Days Ago Date</name>
+        <outputs/>
+        <parent_action display_value="Get Days Ago Date">8d7a084fdbb32300d0fafbef2996198b</parent_action>
+        <sys_class_name>sys_hub_action_type_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-27 13:04:59</sys_created_on>
+        <sys_id>00db88cfdbb32300d0fafbef29961935</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Get Days Ago Date</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_317921_needit_sp">9d472f76db732300d0fafbef299619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">9d472f76db732300d0fafbef299619db</sys_scope>
+        <sys_update_name>sys_hub_action_type_snapshot_00db88cfdbb32300d0fafbef29961935</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-27 13:04:59</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_snapshot>
+    <sys_translated_text action="delete_multiple" query="documentkey=00db88cfdbb32300d0fafbef29961935"/>
+    <sys_variable_value action="delete_multiple" query="document_key=00db88cfdbb32300d0fafbef29961935"/>
+</record_update>
